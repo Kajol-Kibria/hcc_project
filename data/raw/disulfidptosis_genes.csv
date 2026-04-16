@@ -1,0 +1,44 @@
+Gene,Category,Description
+SLC7A11,Core,Cystine/glutamate antiporter (key regulator)
+SLC3A2,Core,Heavy chain of cystine transporter
+ACTN4,Core,Alpha-actinin-4 (actin binding)
+MYH9,Core,Myosin heavy chain 9
+MYH10,Core,Myosin heavy chain 10
+MYL6,Core,Myosin light chain 6
+FLNA,Core,Filamin A (actin crosslinking)
+FLNB,Core,Filamin B
+TLN1,Core,Talin 1 (actin-integrin linkage)
+ACTB,Core,Beta-actin
+DSTN,Core,Destrin (actin depolymerizing)
+IQGAP1,Core,IQ motif containing GTPase activating protein 1
+CD2AP,Core,CD2 associated protein
+INF2,Core,Inverted formin 2
+PDLIM1,Core,PDZ and LIM domain 1
+NCKAP1,Regulator,NCK associated protein 1
+GYS1,Metabolism,Glycogen synthase 1
+NDUFS1,Metabolism,NADH dehydrogenase Fe-S protein 1
+NDUFA11,Metabolism,NADH dehydrogenase subunit A11
+LRPPRC,Metabolism,Leucine rich pentatricopeptide repeat
+OXSM,Metabolism,3-oxoacyl-ACP synthase mitochondrial
+NUBPL,Metabolism,Nucleotide binding protein like
+RPN1,Regulator,Ribophorin I
+SLC25A5,Metabolism,Solute carrier family 25 member 5
+GLUT1,Metabolism,Glucose transporter 1 (SLC2A1)
+GLUT3,Metabolism,Glucose transporter 3 (SLC2A3)
+G6PD,Metabolism,Glucose-6-phosphate dehydrogenase
+PGD,Metabolism,Phosphogluconate dehydrogenase
+TKT,Metabolism,Transketolase
+TALDO1,Metabolism,Transaldolase 1
+NRF2,Regulator,Nuclear factor erythroid 2-related (NFE2L2)
+GCL,Metabolism,Glutamate-cysteine ligase
+GSS,Metabolism,Glutathione synthetase
+GSR,Metabolism,Glutathione-disulfide reductase
+TXNRD1,Metabolism,Thioredoxin reductase 1
+TXN,Metabolism,Thioredoxin
+MSRB2,Metabolism,Methionine sulfoxide reductase B2
+RAC1,Regulator,Rac family small GTPase 1
+CDC42,Regulator,Cell division cycle 42
+WAVE2,Regulator,WASF2
+ARP2,Regulator,ACTR2
+ARP3,Regulator,ACTR3
+CAPZB,Regulator,Capping actin protein of muscle Z-line subunit beta
